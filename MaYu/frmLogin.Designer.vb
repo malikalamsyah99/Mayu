@@ -88,7 +88,7 @@ Partial Class frmLogin
         Me.txtPassword.Size = New System.Drawing.Size(145, 20)
         Me.txtPassword.TabIndex = 1
         '
-        'txtUser
+        'txtUser ok
         '
         Me.txtUser.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtUser.Location = New System.Drawing.Point(122, 41)
